@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "GitSight — Autonomous Software Engineering Platform",
-  description: "AI-powered platform for repository-aware software engineering",
+  title: "RepoWeave — AI-Powered Repository Intelligence Platform",
+  description: "AI-powered platform for repository understanding, semantic code search, and dependency analysis",
 };
 
 export default function RootLayout({

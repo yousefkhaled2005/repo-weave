@@ -1,1 +1,1 @@
-"""GitSight backend application package."""
+"""RepoWeave backend application package."""

@@ -3,7 +3,7 @@
 
 services:
   - type: web
-    name: gitsight-api
+    name: repoweave-api
     runtime: docker
     dockerfilePath: ./backend/Dockerfile
     dockerContext: ./backend

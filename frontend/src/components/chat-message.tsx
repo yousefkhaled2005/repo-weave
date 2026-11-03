@@ -87,7 +87,7 @@ export function ChatMessageBubble({ role, content }: ChatMessageProps) {
     const url = URL.createObjectURL(blob);
     const anchor = document.createElement("a");
     anchor.href = url;
-    anchor.download = "gitsight-chat-response.md";
+    anchor.download = "repoweave-chat-response.md";
     anchor.click();
     URL.revokeObjectURL(url);
   }, [content]);
