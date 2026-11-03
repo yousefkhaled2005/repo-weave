@@ -6,7 +6,7 @@ const notes = [
     icon: Globe,
     content: (
       <>
-        GitSight currently supports <span className="font-medium text-slate-800">public GitHub repositories</span>{" "}
+        RepoWeave currently supports <span className="font-medium text-slate-800">public GitHub repositories</span>{" "}
         only. Private repository support is coming soon via GitHub sign-in or a Personal Access Token
         (PAT).
       </>

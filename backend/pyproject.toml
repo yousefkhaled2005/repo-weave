@@ -1,7 +1,7 @@
 [project]
 name = "autonomous-software-engineer-backend"
 version = "0.1.0"
-description = "Backend API for the GitSight Autonomous Software Engineering Platform"
+description = "Backend API for the RepoWeave AI-Powered Repository Intelligence Platform"
 readme = "README.md"
 requires-python = ">=3.11,<3.12"
 dependencies = [
